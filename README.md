@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Lucas Francisco Camacho Garcia</h1>
-<h3 align="center">Un apasionado frontend developer de Argentina</h3>
+<h3 align="center">Un apasionado Full-Stack developer de Argentina</h3>
 
 - 🌱 I’m currently learning **Node.js, Express**
 
